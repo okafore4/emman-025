@@ -2,7 +2,7 @@
 
 ### About me 👩‍💻
 
-Im Emmanuel, A third year student in DCU studying Computing for Business!
+Im Emmanuel, A fourth year student in DCU studying Computing for Business!
 I love to write code, problem solve and also writing test cases. I aspire to become a DevOps engineer.
 - 🔭 I’m currently working on my interactive reaction time game called Reflex rush.
 - 🌱 I’m currently learning advanced data structures and unit testing. 
